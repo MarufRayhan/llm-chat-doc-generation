@@ -218,14 +218,7 @@ Main chat endpoint for AI interactions.
 
 ## Deployment
 
-### Deploy to Vercel (Recommended)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone)
-
-1. Click the deploy button above
-2. Connect your GitHub repository
-3. Configure environment variables in Vercel dashboard
-4. Deploy!
+- The project is deployed on vercel but you can use any of your favorite hosting provider
 
 ### Manual Deployment
 
