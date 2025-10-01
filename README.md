@@ -1,7 +1,8 @@
 # Next.js AI Chatbot
 
-A production-ready AI chatbot application built with Next.js 14, Vercel AI SDK, and multiple AI providers. Create intelligent conversations and generate structured documents with multimedia support. I have build this during my thesis
-work. 
+A production-ready AI chatbot application built with Next.js 14, Vercel AI SDK, and multiple AI providers. Create intelligent conversations and generate structured documents with multimedia support.
+
+The site is live on: https://llm-chat-doc-generation-yqxm.vercel.app/
 
 ## Table of Contents
 
